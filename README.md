@@ -1,1 +1,1 @@
-# CNN-Plant-Disease-Detection
+This project uses a Convolutional Neural Network (CNN) to classify plant leaf images into 15 categories, including healthy and diseased conditions. It was trained on over 20,000 images from the PlantVillage dataset using TensorFlow/Keras, and helps identify diseases like early blight, late blight, bacterial spots, and more.
